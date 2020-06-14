@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prova2bime", "prova2bime\prova2bime.csproj", "{D08481CC-1782-4F75-BCA7-73FC69FCC0CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D08481CC-1782-4F75-BCA7-73FC69FCC0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08481CC-1782-4F75-BCA7-73FC69FCC0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08481CC-1782-4F75-BCA7-73FC69FCC0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08481CC-1782-4F75-BCA7-73FC69FCC0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C793D0A-84BC-4927-B86B-31CE1D214B85}
+	EndGlobalSection
+EndGlobal
